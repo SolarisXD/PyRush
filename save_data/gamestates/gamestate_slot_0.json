@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-02-10 02:05:25",
+    "player_data": {
+        "coins_collected": 5,
+        "health": 100,
+        "position": {
+            "x": 100,
+            "y": 200
+        },
+        "play_time": 45.5
+    },
+    "level_progress": {
+        "level_complete": false,
+        "total_coins": 10,
+        "coins_remaining": 5
+    }
+}
